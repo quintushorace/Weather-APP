@@ -116,5 +116,4 @@
             android:name="com.baidu.lbsapi.API_KEY"
             android:value="W9xG4m71Ek8xz2GyhZvGiuWb" />
     </application>
-
 </manifest>
